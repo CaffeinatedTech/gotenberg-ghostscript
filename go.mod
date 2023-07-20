@@ -1,4 +1,4 @@
-module github.com/Vrex123/gotenberg-ghostscript
+module github.com/CaffeinatedTech/gotenberg-ghostscript
 
 go 1.17
 
