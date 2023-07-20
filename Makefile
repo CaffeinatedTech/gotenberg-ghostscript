@@ -10,7 +10,7 @@ APP_NAME=ghostscript
 APP_VERSION=v1.0.0
 APP_AUTHOR=Vrex141
 APP_REPOSITORY=https://github.com/Vrex123/gotenberg-ghostscript
-DOCKER_REPOSITORY=vrex141
+DOCKER_REPOSITORY=caffeinatedtech1
 GOLANGCI_LINT_VERSION=v1.42.0 # See https://github.com/golangci/golangci-lint/releases.
 GHOSTSCRIPT_VERSION=9.55.0-linux-x86_64 # See https://github.com/ArtifexSoftware/ghostpdl-downloads/releases
 
